@@ -66,3 +66,24 @@ Copy
 Edit
 SELECT * FROM tb_deputados;
 SELECT * FROM tb_gastos;
+
+
+📜 Licença
+Este projeto é de código aberto e pode ser usado para fins acadêmicos ou estudos.
+
+📩 Dúvidas? Entre em contato!
+Se precisar de ajuda ou sugestões, sinta-se à vontade para abrir uma issue ou contribuir! 🚀
+
+yaml
+Copy
+Edit
+
+---
+
+## **✅ Como Atualizar o README no GitHub**
+Agora que seu `README.md` está pronto, **envie as alterações para o GitHub** com:
+
+```bash
+git add README.md
+git commit -m "Melhorando a documentação do projeto"
+git push origin main
