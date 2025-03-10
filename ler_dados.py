@@ -4,7 +4,7 @@ import psycopg2
 conn = psycopg2.connect(
     dbname="GASTOS_CAMARA",
     user="postgres",
-    password="larissa5",
+    password="senha",
     host="localhost",
     port="5432"
 )
