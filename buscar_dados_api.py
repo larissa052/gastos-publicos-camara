@@ -6,7 +6,7 @@ import psycopg2
 DB_CONFIG = {
     "dbname": "GASTOS_CAMARA",  # Nome do banco de dados
     "user": "postgres",         # Usuário
-    "password": "larissa5",    # Senha do usuário
+    "password": "senha",    # Senha do usuário
     "host": "localhost",        # Local do servidor PostgreSQL
     "port": "5432"              # Porta padrão do PostgreSQL
 }
